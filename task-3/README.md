@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Ən böyük və ən kiçiyi əvəzləmək 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,7 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Birölçülü massivlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +17,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+n tam ədəddən ibarət massiv verilir. Onun bütün ən böyük elementlərinin qiymətini ən kiçiklə, ən kiçiklərini isə ən böyüklə əvəzləyin.
+
 
 #### Giriş verilənləri
-SomeText
+İlk sətirdə hər biri modulca 100-ü aşmayan n sayda tam ədəd verilir.
+
 
 #### Çıxış verilənləri
-SomeText
+Yenilənmiş massivi verin.
+
 
 ---
 
@@ -38,13 +39,19 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+3,5,-7,7,5,-9,-4
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+3
+5
+-7
+-9
+5
+7
+-4
 ```
 
 

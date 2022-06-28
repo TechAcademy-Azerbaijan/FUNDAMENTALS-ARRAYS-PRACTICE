@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Qonşularından böyük olan 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,8 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Birölçülü massivlər
+
 
 **Yekun qeydlər**: 
 
@@ -19,13 +18,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+n sayda tam ədədlərdən ibarət massiv verilmişdir. Massivin öz iki qonşusundan böyük olan elementlərini təyin edin və belə elementlərin sayını çap edin. Kənarlardakı elementləri nəzərə almayın, belə ki, onların qonşusu azdır.
+
 
 #### Giriş verilənləri
-SomeText
+İlk sətirdə n sayda tam ədəd verilir. Bütün ədədlər modulca 100-ü aşmır.
+
 
 #### Çıxış verilənləri
-SomeText
+Öz iki qonşusundan böyük olan elementlərin sayını çap edin.
+
 
 ---
 
@@ -38,13 +40,13 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+9,5,-7,-7,5,-9,-4
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+1
 ```
 
 

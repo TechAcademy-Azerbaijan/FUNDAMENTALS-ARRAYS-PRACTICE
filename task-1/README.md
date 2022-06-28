@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Ədədi ortasından böyük 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,7 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Birölçülü massivlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +17,16 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+n sayda tam ədədlərdən ibarət massiv verilir. Massivin elementlərinin ədədi ortasından böyük olan elementlərinin cəmini və sayını tapın.
+
 
 #### Giriş verilənləri
-SomeText
+Birinci sətirdə modulca 100-dən böyük olmayan n sayda tam ədəd verilir.
+
 
 #### Çıxış verilənləri
-SomeText
+Massivin elementlərinin ədədi ortasından böyük olan elementlərinin cəmini və sayını çap edin.
+
 
 ---
 
@@ -38,13 +39,14 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+1,6,2,6,3
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+12
+2
 ```
 
 

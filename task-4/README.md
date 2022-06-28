@@ -1,4 +1,4 @@
-# TapşırığınBaşlığı 🎯
+# Təkrarsız 🎯
 
 Sizdən aşağıdakı tapşırığı həll etmək tələb olunur. Əvvəlcə tapşırığın şərtini oxumağı unutmayın.
 
@@ -6,9 +6,7 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırıqları həll etmək üçün bilməli olduğunuz mövzular
 
-* Data tipləri
-* Verilənlər (variables)
-* Giriş əmri (input)
+* Birölçülü massivlər
 
 **Yekun qeydlər**: 
 
@@ -19,13 +17,18 @@ Tapşırıqların nümunə həllərini [instructions](../instructions) folderind
 
 #### Tapşırığın şərti
 
-SomeText
+Verilmiş massivdən təkrar rast gəlinən elementləri silmək tələb olunur. Bu əməliyyatı apararkən massivdə yalnız indeksi ən kiçik olan elementləri saxlamaq lazımdır.
+
+
 
 #### Giriş verilənləri
-SomeText
+Birinci sətirdə n modulca 100-dən böyük olmayan tam ədədlər verilir.
+
+
 
 #### Çıxış verilənləri
-SomeText
+Dəyişdirilmiş massivin elementlərinin ardıcıllığını saxlamaqla çapa verin.
+
 
 ---
 
@@ -38,13 +41,16 @@ SomeText
 **Giriş verilənləri** 
 
 ```
-xxx
+0,1,-2,1,0,0,3
 ```
 
 **Çıxış verilənləri**
 
 ```
-xxx
+0
+1
+-2
+3
 ```
 
 
